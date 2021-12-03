@@ -1,5 +1,6 @@
 {
   "name": "react-ga",
+  "homepage": "https://leo75399.github.io/react-ga/", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
